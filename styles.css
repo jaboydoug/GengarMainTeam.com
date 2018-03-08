@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%; /* full window width */
+    text-align: center;
+}
+
+.wrapper {
+	text-align: left;
+	float:left;
+	width: 20%;
+	height: 100vh;
+    margin: 0px auto;
+    padding: 0 0 0 5%;
+	background-color: #5e5a79;
+	
+}
+
+.nav {
+	text-decoration: none;
+	list-style:none;
+	font-family: Agency FB;
+	display: inline-block;
+	font-size: 46px;
+	color: whitesmoke;
+	text-align: center;
+	padding-top: 200px;
+	padding-bottom: 100%
+	
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a hover {
+	color:aqua;
+}
+	
+h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 72px;
+	margin: 0px 0px 10px 0px;
+	float: left;
+	padding: 180px 0px 0px 60px;
+}
+
+img {
+	width: 20%;
+    height: auto;
+	float: left;
+	padding-left: 15px;
+}
+
+span {
+	color: #5e5a79;
+}
+
+.content {
+	float: hover;
+	padding-top: 300px;
+}
+
+p {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 26px;
+	padding-left: 200px;
+	padding-right: 100px;
+}
